@@ -1,3 +1,5 @@
+**This package is not compatible with ZF2, a rewrite as ZF2 module implementing the announced PSR-3 is planned.**
+
 Monitorix is released under the New BSD License.
 
 The current version is Monitorix 1.2.1.
