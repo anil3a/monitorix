@@ -19,10 +19,10 @@ Monitorix is meant to offer a **light but free** alternative to the commercial m
 * minimal bootstrapping and configuration
 * simple message logging
 * automated logging of php errors (optional)
-* **NEW**: automated logging of fatal php errors (optional)
+* automated logging of fatal php errors (optional)
 * automated logging of uncaught exceptions (optional)
 * automated logging of slow database queries (optional)
-* **NEW**: automated logging of javascript errors (optional)
+* automated logging of javascript errors (optional)
 * fully unit tested
 
 ## Prerequisites
