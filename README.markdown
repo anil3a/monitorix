@@ -1,3 +1,6 @@
+# DEPRECATED
+
+
 **This package is not compatible with ZF2, I am not going to rewrite this for ZF2, we implemented a wastly superior solution for which we wrote https://github.com/cloud-solutions/zend-sentry.**
 
 Monitorix is released under the New BSD License.
